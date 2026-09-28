@@ -55,13 +55,13 @@
   <h4>🎲 Do Junior ao Senior em dados</h4>
   <p>Pojeto com finalidade de consolidar conhecimentos iniciais e avançados em SQL, Python, BI para tratamento e modelagem de dados.</p>
   <br />
-  <a href="https://github.com/Hrq_Dev/Bot-de-Agendamento-">📂 Ver Repositório</a>
+  <a href="">📂 Ver Repositório</a>
 </td>
     <td width="50%" valign="top">
       <h4>👨🏻‍💻 Desenvolvimento Mobile</h4>
       <p>Trabalho da faculdade que consiste numa aplicação mobile, para segurança de residencias com uso de Banco d Dados e API de IA.</p>
       <br />
-      <a href="https://github.com/Hrq_Dev/Loja-DevClub">📂 Ver Repositório</a>
+      <a href="https://github.com/santanasamuelsousa/House-Securityapp.git">📂 Ver Repositório</a>
     </td>
   </tr>
 </table>
