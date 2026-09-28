@@ -41,7 +41,7 @@
 
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,postgresql,mysql,gigit,github&perline=8" alt="Minhas Tecnologias" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,postgresql,mysql,git,github&perline=8" alt="Minhas Tecnologias" />
   </a>
 </div>
 
